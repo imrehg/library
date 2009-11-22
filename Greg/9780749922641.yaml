@@ -1,0 +1,17 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- David Allen
+edition: Paperback
+isbn: "9780749922641"
+library: 
+notes: ""
+own: true
+publisher: Piatkus Books
+publishing_year: 2002
+redd: false
+saved_ident: "9780749922641"
+tags: []
+
+title: "Getting Things Done: The Art of Stress-free Productivity"
+version: 0.6.3
+want: true

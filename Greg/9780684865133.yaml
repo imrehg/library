@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Joseph Heller
+edition: Hardcover
+isbn: "9780684865133"
+library: 
+loaned: false
+loaned_since: 2009-11-22 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: false
+publisher: Simon & Schuster
+publishing_year: 1999
+rating: 5
+redd: false
+redd_when: 
+saved_ident: "9780684865133"
+tags: []
+
+title: "Catch-22: A Novel"
+version: 0.6.3
+want: true

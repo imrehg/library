@@ -1,0 +1,23 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Wendell T. Hill III
+- Chi H. Lee
+edition: Paperback
+isbn: "9783527406616"
+library: 
+loaned: false
+loaned_since: 2009-11-22 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: false
+publisher: Wiley-VCH
+publishing_year: 2007
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9783527406616"
+tags: []
+
+title: "Light-Matter Interaction: Atoms and Molecules in External Fields and Nonlinear Optics"
+version: 0.6.3
+want: false

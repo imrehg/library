@@ -1,0 +1,17 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Harpercollins Publishers Ltd.
+edition: Paperback
+isbn: "9780007126224"
+library: 
+notes: ""
+own: true
+publisher: Collins Reference
+publishing_year: 2005
+redd: false
+saved_ident: "9780007126224"
+tags: []
+
+title: Collins Gem French, 8th Edition
+version: 0.6.3
+want: true

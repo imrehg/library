@@ -1,0 +1,18 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Richard P. Feynman
+- Ralph Leighton
+edition: Paperback
+isbn: "9780393320923"
+library: 
+notes: ""
+own: true
+publisher: W.W. Norton & Co.
+publishing_year: 2001
+redd: false
+saved_ident: "9780393320923"
+tags: []
+
+title: "What Do You Care What Other People Think?: Further Adventures of a Curious Character"
+version: 0.6.3
+want: true

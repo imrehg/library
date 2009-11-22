@@ -1,0 +1,17 @@
+--- !ruby/object:Alexandria::Book 
+authors: []
+
+edition: Paperback
+isbn: "9780007195978"
+library: 
+notes: ""
+own: true
+publisher: Collins
+publishing_year: 2005
+redd: false
+saved_ident: "9780007195978"
+tags: []
+
+title: Spanish Dictionary (Collins GEM)
+version: 0.6.3
+want: true

@@ -1,0 +1,19 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Andrew Bender
+- Julie Grundvig
+- Robert Kelly
+edition: Paperback
+isbn: "9781740593601"
+library: 
+notes: ""
+own: true
+publisher: Lonely Planet Publications
+publishing_year: 2004
+redd: false
+saved_ident: "9781740593601"
+tags: []
+
+title: Lonely Planet Taiwan
+version: 0.6.3
+want: true

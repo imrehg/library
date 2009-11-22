@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Ryu Murakami
+edition: Paperback
+isbn: "9784770030139"
+library: 
+loaned: false
+loaned_since: 2009-11-22 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Kodansha International
+publishing_year: 2006
+rating: 5
+redd: true
+redd_when: 2009-03-01 00:00:00 +08:00
+saved_ident: "9784770030139"
+tags: []
+
+title: Sixty-Nine
+version: 0.6.3
+want: true

@@ -1,0 +1,17 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Abraham Young
+edition: Paperback
+isbn: "9781438214115"
+library: 
+notes: ""
+own: true
+publisher: CreateSpace
+publishing_year: 2008
+redd: false
+saved_ident: "9781438214115"
+tags: []
+
+title: "Humanity At Stake: China's Aggression, Taiwan's Democracy, and 23 Million Citizens' Human Right to Self-Determination"
+version: 0.6.3
+want: true

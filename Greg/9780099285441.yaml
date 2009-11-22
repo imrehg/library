@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Chuck Palahniuk
+edition: Paperback
+isbn: "9780099285441"
+library: 
+loaned: false
+loaned_since: 2009-11-22 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Vintage
+publishing_year: 2000
+rating: 5
+redd: true
+redd_when: 2009-11-01 00:00:00 +08:00
+saved_ident: "9780099285441"
+tags: []
+
+title: Invisible Monsters
+version: 0.6.3
+want: true
