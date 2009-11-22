@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- A. K. Dewdney
+edition: Paperback
+isbn: "9780805071665"
+library: 
+loaned: false
+loaned_since: 2009-11-22 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: false
+publisher: Holt Paperbacks
+publishing_year: 1993
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780805071665"
+tags: []
+
+title: "The New Turing Omnibus: Sixty-Six Excursions in Computer Science"
+version: 0.6.3
+want: true

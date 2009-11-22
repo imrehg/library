@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Haruki Murakami
+edition: Paperback
+isbn: "9780099448563"
+library: 
+loaned: false
+loaned_since: 2009-11-22 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Vintage
+publishing_year: 2003
+rating: 4
+redd: true
+redd_when: 2009-11-22 00:00:00 +08:00
+saved_ident: "9780099448563"
+tags: []
+
+title: After the Quake
+version: 0.6.3
+want: true
