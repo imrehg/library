@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Michele Maggiore
+edition: Paperback
+isbn: "9780198520740"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Oxford University Press, USA
+publishing_year: 2005
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780198520740"
+tags: 
+- physics
+title: A Modern Introduction to Quantum Field Theory (Oxford Master Series in Statistical, Computational, and Theoretical Physics)
+version: 0.6.3
+want: true

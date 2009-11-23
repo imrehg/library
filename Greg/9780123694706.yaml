@@ -1,22 +1,22 @@
 --- !ruby/object:Alexandria::Book 
 authors: 
-- Mark Johnson
+- Robert W. Boyd
 edition: Hardcover
-isbn: "9780071409445"
+isbn: "9780123694706"
 library: 
 loaned: false
 loaned_since: 2009-11-23 00:00:00 +08:00
 loaned_to: ""
 notes: ""
 own: true
-publisher: McGraw-Hill Professional
-publishing_year: 2003
-rating: 5
+publisher: Academic Press
+publishing_year: 2008
+rating: 0
 redd: false
 redd_when: 
-saved_ident: "9780071409445"
+saved_ident: "9780123694706"
 tags: 
 - physics
-title: "Photodetection and Measurement: Maximizing Performance in Optical Systems"
+title: Nonlinear Optics, Third Edition
 version: 0.6.3
 want: true

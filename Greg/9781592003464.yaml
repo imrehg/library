@@ -1,0 +1,23 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Tom Igoe
+- Dan O'Sullivan
+edition: Paperback
+isbn: "9781592003464"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Course Technology PTR
+publishing_year: 2004
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9781592003464"
+tags: 
+- physics
+title: "Physical Computing: Sensing and Controlling the Physical World with Computers"
+version: 0.6.3
+want: true

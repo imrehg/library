@@ -1,0 +1,23 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- John G. Proakis
+- Dimitris K Manolakis
+edition: Hardcover
+isbn: "9780133737622"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Prentice Hall
+publishing_year: 1995
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780133737622"
+tags: 
+- physics
+title: "Digital Signal Processing: Principles, Algorithms and Applications (3rd Edition)"
+version: 0.6.3
+want: true

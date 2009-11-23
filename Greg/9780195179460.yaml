@@ -1,0 +1,23 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Amnon Yariv
+- Pochi Yeh
+edition: Hardcover
+isbn: "9780195179460"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: Gift from Jeff Sherman in 2008
+own: true
+publisher: Oxford University Press, USA
+publishing_year: 2006
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780195179460"
+tags: 
+- physics
+title: "Photonics: Optical Electronics in Modern Communications (The Oxford Series in Electrical and Computer Engineering)"
+version: 0.6.3
+want: true

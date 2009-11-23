@@ -1,0 +1,23 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Marlan O. Scully
+- M. Suhail Zubairy
+edition: Paperback
+isbn: "9780521435956"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Cambridge University Press
+publishing_year: 1997
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780521435956"
+tags: 
+- physics
+title: Quantum Optics
+version: 0.6.3
+want: true

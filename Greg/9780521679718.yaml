@@ -1,0 +1,24 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- K. F. Riley
+- M. P. Hobson
+- S. J. Bence
+edition: Paperback
+isbn: "9780521679718"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Cambridge University Press
+publishing_year: 2006
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780521679718"
+tags: 
+- physics
+title: "Mathematical Methods for Physics and Engineering: A Comprehensive Guide"
+version: 0.6.3
+want: true
