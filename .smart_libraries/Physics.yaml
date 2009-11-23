@@ -1,0 +1,7 @@
+--- 
+:rules: 
+- :value: Physics
+  :operand: :tags
+  :operation: :contains
+:predicate_operator_rule: :all
+:name: Physics

@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Mark Johnson
+edition: Hardcover
+isbn: "9780071409445"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: McGraw-Hill Professional
+publishing_year: 2003
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780071409445"
+tags: 
+- physics
+title: "Photodetection and Measurement: Maximizing Performance in Optical Systems"
+version: 0.6.3
+want: true

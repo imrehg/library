@@ -1,22 +1,22 @@
 --- !ruby/object:Alexandria::Book 
 authors: 
-- Chuck Palahniuk
+- Rodney Loudon
 edition: Paperback
-isbn: "9780099285441"
+isbn: "9780198501763"
 library: 
 loaned: false
 loaned_since: 2009-11-23 00:00:00 +08:00
 loaned_to: ""
 notes: ""
 own: true
-publisher: Vintage
+publisher: Oxford University Press, USA
 publishing_year: 2000
-rating: 5
-redd: true
-redd_when: 2009-11-01 00:00:00 +08:00
-saved_ident: "9780099285441"
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9780198501763"
 tags: 
-- novel
-title: Invisible Monsters
+- physics
+title: The Quantum Theory of Light (Oxford Science Publications)
 version: 0.6.3
 want: true

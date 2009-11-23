@@ -4,14 +4,19 @@ authors:
 edition: Paperback
 isbn: "9780749922641"
 library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
 notes: ""
 own: true
 publisher: Piatkus Books
 publishing_year: 2002
+rating: 4
 redd: false
+redd_when: 
 saved_ident: "9780749922641"
-tags: []
-
+tags: 
+- lifehack
 title: "Getting Things Done: The Art of Stress-free Productivity"
 version: 0.6.3
 want: true

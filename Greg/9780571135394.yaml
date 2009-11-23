@@ -4,14 +4,19 @@ authors:
 edition: Paperback
 isbn: "9780571135394"
 library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
 notes: ""
 own: true
 publisher: Faber Faber Inc
 publishing_year: 1996
+rating: 0
 redd: false
+redd_when: 
 saved_ident: "9780571135394"
-tags: []
-
+tags: 
+- novel
 title: Unbearable Lightness of Being (Spanish Edition)
 version: 0.6.3
 want: true

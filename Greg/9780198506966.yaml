@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Christopher J. Foot
+edition: Paperback
+isbn: "9780198506966"
+library: 
+loaned: false
+loaned_since: 2009-11-23 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: true
+publisher: Oxford University Press, USA
+publishing_year: 2005
+rating: 5
+redd: true
+redd_when: 2009-11-23 00:00:00 +08:00
+saved_ident: "9780198506966"
+tags: 
+- physics
+title: Atomic Physics (Oxford Master Series in Atomic, Optical and Laser Physics)
+version: 0.6.3
+want: true

@@ -1,22 +1,22 @@
 --- !ruby/object:Alexandria::Book 
 authors: 
-- Joseph Heller
+- Andrew Weiner
 edition: Hardcover
-isbn: "9780684865133"
+isbn: "9780471415398"
 library: 
 loaned: false
 loaned_since: 2009-11-23 00:00:00 +08:00
 loaned_to: ""
 notes: ""
-own: false
-publisher: Simon & Schuster
-publishing_year: 1999
-rating: 5
+own: true
+publisher: Wiley
+publishing_year: 2009
+rating: 0
 redd: false
 redd_when: 
-saved_ident: "9780684865133"
+saved_ident: "9780471415398"
 tags: 
-- novel
-title: "Catch-22: A Novel"
+- physics
+title: Ultrafast Optics (Wiley Series in Pure and Applied Optics)
 version: 0.6.3
 want: true
