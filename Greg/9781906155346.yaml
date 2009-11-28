@@ -1,0 +1,22 @@
+--- !ruby/object:Alexandria::Book 
+authors: 
+- Herbert Wright
+edition: Hardcover
+isbn: "9781906155346"
+library: 
+loaned: false
+loaned_since: 2009-11-29 00:00:00 +08:00
+loaned_to: ""
+notes: ""
+own: false
+publisher: Black Dog Publishing
+publishing_year: 2008
+rating: 0
+redd: false
+redd_when: 
+saved_ident: "9781906155346"
+tags: []
+
+title: Instant Cities
+version: 0.6.3
+want: true
